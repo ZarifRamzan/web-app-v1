@@ -1,4 +1,4 @@
-# Simple Web App
+# CCSD Project: Web App
 
 This is a simple web application built with React for the frontend and Node.js for the backend. It allows users to submit their names and ages, which are stored in a text file. The application is containerized using Docker for easy deployment and management.
 
